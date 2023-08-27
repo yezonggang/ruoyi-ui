@@ -64,7 +64,7 @@
                 v-model="loginForm.code"
                 auto-complete="off"
                 placeholder="验证码"
-                style="width: 63%"
+                style="width: 48%"
                 @keyup.enter.native="handleLogin"
               >
                 <svg-icon
@@ -328,7 +328,7 @@ export default {
   width: 100%;
 }
 .login-code {
-  width: 33%;
+  width: 46%;
   float: right;
   img {
     cursor: pointer;
