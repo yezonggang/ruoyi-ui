@@ -8,3 +8,4 @@ nvm list
 nvm use 16
 
 登录账号:admin/admin123
+![alt text](image.png)
